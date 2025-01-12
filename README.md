@@ -14,3 +14,25 @@ Total sales by product in two years:Highlights the total sales generated in year
 
 **Dashboard Overview:** 
 ![FOODDASHBOARD](FOODDASHBOARD.png)
+
+# Project 2
+
+**Title:** Sales Record- SQL Data Manipulation and Interogation
+
+**SQL Code:** [Sales Records SQL Codes](https://github.com/Dominion1987/Dominion1987.github.io/blob/main/Sales_Record.sql)
+
+**SQL Skills Used:**
+Data Retrieval (SELECT): Queried and extracted specific information from the database.
+Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+Data Filtering (WHERE, BETWEEN, IN, AND, GROUP BY, ORDER BY, HAVING): Applied filters to select relevant data, including filtering by ranges and lists.
+Data Source Specification (FROM): Specified the tables used as data sources for retrieval
+
+
+**Project Description:**
+In order to arrange, examine, and display sales data for a company, this project entails building and maintaining a sales record database. The objective is to create a solid SQL-based system that can store important sales data, guarantee data accuracy, and provide sensitive analysis for well-informed decision-making.
+Database Design: Creation of tables for products, customers, sales transactions, and sales representatives and establishment of relationships between tables using primary and foreign keys.
+Data Management: Insertion, updating, and deletion of sales records and implementation of constraints to maintain data integrity.
+Query Implementation: Customer segmentation analysis based on purchase history and trend analysis for sales performance over time.
+Reporting:Generating reports for management, including sales trends, revenue growth, and regional performance.
+
+**Technology used:** SQL server
