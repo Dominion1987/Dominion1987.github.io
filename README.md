@@ -36,3 +36,25 @@ Query Implementation: Customer segmentation analysis based on purchase history a
 Reporting:Generating reports for management, including sales trends, revenue growth, and regional performance.
 
 **Technology used:** SQL server
+
+# Project 3
+
+**Title:** [Auto Sales Performance Dashboard](https://github.com/Dominion1987/Dominion1987.github.io/blob/main/AutoSalesdataDashboard.xlsx)
+
+**Tools Used:** Microsoft Excel- Pivot Table, PivotChart Analysis, Conditional Formatting, Data Validation, Slicers, Timeline, Filter, and Bricks ai software
+
+**Project Description:** This project provides a comprehensive overview of auto sales data, highlighting revenue trends, product line performance, deal sizes, and order status distribution. Use it to understand key sales metrics, identify top-performing categories, and monitor operational efficiency across products and geographies.
+
+**Key Findings:** 
+1. Sales show strong seasonal spikes in November 2018 and November 2019, with monthly sales exceeding $1 million in both months.
+2. There is a consistent mid-year sales dip around May each year, followed by a gradual increase.
+3. A consistent upward sales trend occurs between Q3 and Q4 annually, indicating a reliable year-end surge.
+4. Medium-sized deals generate the highest sales across most product lines, with Classic Cars leading at £2.38 million in medium- sized deals.
+5. Classic Cars lead overall sales across all deal sizes, particularly excelling in medium-sized deals.
+6. Trains have minimal sales in large deals, suggesting limited capacity or niche demand for high-value train orders.
+7. The USA dominates total sales with over $3.3 million, primarily driven by medium-sized deals totaling $2.05 million.
+8. Spain and France are the next largest markets, each generating around $1.05 million and $1.12 million respectively, significantly less than the USA.
+9. Australia, the UK, and Italy have balanced sales distributions across small, medium, and large deal sizes, with no single deal size dominating.
+
+**Dashboard Overview:**
+![AutosalaesDashboard](AutosalesdashboardNew.PNG)
