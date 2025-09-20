@@ -1,4 +1,4 @@
-# Project 1
+# Project 1 Microsoft Excel
 
 **Title:** [BURGER KING FOOD SALES UNITED STATES](https://github.com/Dominion1987/Dominion1987.github.io/blob/main/FOODFILE.xlsx)
 
@@ -15,7 +15,7 @@ Total sales by product in two years:Highlights the total sales generated in year
 **Dashboard Overview:** 
 ![FOODDASHBOARD](FOODDASHBOARD.png)
 
-# Project 2
+# Project 2 SQL Server
 
 **Title:** Sales Record- SQL Data Manipulation and Interogation
 
@@ -37,7 +37,7 @@ Reporting:Generating reports for management, including sales trends, revenue gro
 
 **Technology used:** SQL server
 
-# Project 3
+# Project 3 Microsoft Excel
 
 **Title:** [Auto Sales Performance Dashboard](https://github.com/Dominion1987/Dominion1987.github.io/blob/main/AutoSalesdataDashboard.xlsx)
 
@@ -58,3 +58,24 @@ Reporting:Generating reports for management, including sales trends, revenue gro
 
 **Dashboard Overview:**
 ![AutosalaesDashboard](AutosalesdashboardNew.PNG)
+
+# Project 4 Power BI
+
+**Title:** Alex Warren New Album Performance
+
+**Tools Used:** PowerBI- Power Query Editor, Data Model, DAX (Data Analysis Expressions), Visualization Pane, Filters and Slicers, Tiles, Dashboard Layout and Bricks ai software.
+
+**Project Description:** This dashboard provides a comprehensive analysis of Alex warren new album performance showing the world ranking, numbers of streaming of songs and top streaming platform.
+
+**Key Findings:** 
+1. Album Rankings – Alex Warren’s latest album debuted at #1 in the UK, #2 in Canada, #3 in Australia, and #4 in the US.
+2. Release Performance – Released on July 18, 2025, the album has already surpassed 1.9 billion streams across all platforms.
+3. Platform Breakdown – The most streamed platforms are Apple Music and Spotify, with standout track performances:
+Ordinary – 962.8M streams
+Eternity – 102.9M streams
+Before You Leave Me – 354M streams
+Carry You Home – 513.4M streams
+4. Top Song – Ordinary is currently the most played song in Alex Warren’s catalogue at the time of this post
+
+**Dashboard Overview:**
+![Alex_Warren_New_Album_Permance](AlexWarrenNewAlbumPerformanceDashboard.png)
